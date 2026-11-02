@@ -81,11 +81,10 @@ Skills demonstrated: Technical Documentation, Problem-Solving, Cybersecurity Res
 I'm open to connecting with cybersecurity professionals, mentors, recruiters, fellow learners, and individuals passionate about information security.
 
 - 💼 LinkedIn: [Add your LinkedIn Profile]
-- 🐙 GitHub: [Your GitHub Profile]
-- 📧 Email: [Your Professional Email]
-- 🐦 X (Twitter): [Add your X Profile]
+- 🐙 GitHub: github.com/MacEben
+- 📧 Email: Akinkunmi6649@gmail.com
+- 🐦 X (Twitter): x.com/macEbenagro
 
----
 
 "Cybersecurity is not just about technology; it's about awareness, prevention, and protecting what matters."
 
