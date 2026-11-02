@@ -1,61 +1,92 @@
-Hi there, I'm [Your Name]! ­ЪЉІ
+Hi there, I'm Makinde Ebenezer Oluwaseun! 👋
 
-Banner Image
+Aspiring Cybersecurity Professional | Security Awareness Advocate | Lifelong Learner
 
+👨‍💻 About Me
 
-About Me ­Ъџђ
+I'm an aspiring Cybersecurity Professional passionate about protecting digital assets, identifying security threats, and understanding how to secure information systems against evolving cyber threats.
 
-I'm a passionate [Your Job Title / Developer Role] with experience in [technologies you're proficient in]. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+My professional background in Health, Safety & Environment (HSE), agriculture, logistics, and operational management has strengthened my interest in risk assessment, incident prevention, problem-solving, and security awareness.
 
+I am currently transitioning into cybersecurity, building practical knowledge and developing technical skills to pursue opportunities in the cybersecurity industry.
 
+- 🔭 Currently learning: Cybersecurity Fundamentals, Network Security, Phishing Analysis, Identity & Access Management (IAM), and Security Operations.
+- 🌱 Working on: Hands-on cybersecurity labs, phishing email identification, security awareness content, and documenting my learning journey.
+- 🛡️ Areas of Interest: Threat Detection, Vulnerability Assessment, Information Security, IAM, and SOC Operations.
+- 💻 Technical Interests: Linux, Networking, Windows Security, and Cybersecurity Tools.
+- 🌍 Languages: English.
+- 📍 Location: Nigeria.
+- 🎯 Career Goal: To become a competent cybersecurity professional and contribute to building safer digital environments.
+- 💡 Fun Fact: I believe that cybersecurity, just like HSE, starts with awareness, prevention, and identifying risks before they become incidents.
 
-­Ъї▒ Currently learning: [new technologies or skills you're currently learning]
+🛠️ Skills & Technical Interests
 
-­ЪћГ Working on: [current projects or side-projects]
+Cybersecurity
 
-­ЪїЇ Languages: [programming languages and human languages you speak]
+- Cybersecurity Fundamentals
+- Phishing Identification & Analysis
+- Security Awareness
+- Identity & Access Management (IAM)
+- Risk Assessment
+- Threat Identification
 
-­ЪЊФ How to reach me: [your email address or other contact information]
+Technical Skills (Learning)
 
-РџА Fun fact: [a fun fact about yourself]
+- Computer Networking
+- Linux Fundamentals
+- Windows Security
+- Network Security
+- Vulnerability Assessment
+- Security Operations (SOC)
 
+Tools & Platforms (Learning)
 
-My Skills ­ЪДа
+- Git & GitHub
+- Wireshark
+- Nmap
+- Kali Linux
+- TryHackMe
 
-HTML
-CSS
-JavaScript
-React
-Node.js
+🚀 Featured Projects
 
+1. Phishing Email Analysis & Awareness
 
-Replace the above skill badges with your own skills and expertise. To create more badges, use checkout this repo.
+A cybersecurity awareness project focused on identifying suspicious emails, recognizing phishing indicators, understanding social engineering techniques, and educating users on how to avoid email-based cyberattacks.
 
+Skills demonstrated: Phishing Detection, Threat Awareness, Social Engineering Analysis, and Security Education.
 
-Featured Projects ­Ъњ╗
+2. Identity & Access Management (IAM) Learning Repository
 
-Project 1 Title
+A learning repository documenting the fundamentals of Identity and Access Management, including authentication, authorization, access control, user permissions, and account security.
 
-Project 1 Screenshot
+Skills demonstrated: IAM Fundamentals, Access Control, Authentication, and Information Security.
 
+3. Cybersecurity Learning & Practical Labs
 
-[Project 1 Title] is a [brief project description] built with [technologies used]. This project demonstrates my ability to [skills demonstrated by the project]. You can check out the repository here.
+A continuously updated repository documenting my cybersecurity learning journey, practical exercises, technical notes, security tools, and hands-on laboratory experiences.
 
+Skills demonstrated: Technical Documentation, Problem-Solving, Cybersecurity Research, and Practical Learning.
 
-Project 2 Title
+📚 Currently Building My Knowledge In
 
-Project 2 Screenshot
+- CompTIA Security+ Fundamentals
+- Networking & Network Security
+- Linux Administration
+- Ethical Hacking Fundamentals
+- Security Operations & Threat Monitoring
+- Identity & Access Management
 
+🤝 Let's Connect!
 
-[Project 2 Title] is a [brief project description] built with [technologies used]. This project showcases my skills in [skills demonstrated by the project]. You can check out the repository here.
+I'm open to connecting with cybersecurity professionals, mentors, recruiters, fellow learners, and individuals passionate about information security.
 
+- 💼 LinkedIn: [Add your LinkedIn Profile]
+- 🐙 GitHub: [Your GitHub Profile]
+- 📧 Email: [Your Professional Email]
+- 🐦 X (Twitter): [Add your X Profile]
 
-Get in Touch ­ЪЊг
+---
 
+"Cybersecurity is not just about technology; it's about awareness, prevention, and protecting what matters."
 
-[Personal Website / Blog](your_website_or_blog_link)
-
-[LinkedIn](your_linkedin_profile_link)
-
-[Twitter](your_twitter_profile_link)
-
+Building knowledge. Developing skills. Securing the digital future. 🔐
